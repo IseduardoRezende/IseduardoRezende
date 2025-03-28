@@ -12,7 +12,7 @@
 <div>
   <img src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white&style=flat" title="Microsoft Azure"/>
   <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?logo=azure-functions&logoColor=white&style=flat" title="Azure Functions"/>
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-5C2D91?logo=dotnet&logoColor=white&style=flat" title="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20-5C2D91?logo=dotnet&logoColor=white&style=flat" title="ASP.NET Core"/>
   <img src="https://img.shields.io/badge/API%20Development-FF6D00?logo=api&logoColor=white&style=flat" title="API Development"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat" title="Docker"/>
 </div>
@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?logo=dotnet&logoColor=white&style=flat" title="Entity Framework"/>
   <img src="https://img.shields.io/badge/Dapper-1E8449?logo=.net&logoColor=white&style=flat" title="Dapper"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" title="MongoDB"/>
+ <img src="https://img.shields.io/badge/MySQL-555555?logo=mysql&logoColor=white&style=flat" title="MySQL"/>
 </div>
 
 ### Frontend & Desktop

@@ -48,7 +48,6 @@
   <img src="https://img.shields.io/badge/Clean%20Arch-512BD4?logo=architecture&logoColor=white&style=flat" title="Clean Architecture"/>
   <img src="https://img.shields.io/badge/DDD-FF6D00?logo=ddd&logoColor=white&style=flat" title="Domain-Driven Design"/>
   <img src="https://img.shields.io/badge/Design%20Patterns-FF6D00?logo=designpatterns&logoColor=white&style=flat" title="Design Patterns"/>
-  <img src="https://img.shields.io/badge/RPA-FF6C37?logo=robotframework&logoColor=white&style=flat" title="Robotic Process Automation"/>
 </div>
 
 ## 📊 GitHub Stats

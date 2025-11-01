@@ -57,6 +57,8 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=IseduardoRezende&show_icons=true&theme=radical&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=IseduardoRezende&theme=radical&fire=DD2727" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IseduardoRezende&layout=compact&theme=holi&hide_border=false&langs_count=12" width="350" />
+  <img src="https://github-profile-trophy.vercel.app?username=IseduardoRezende&theme=holi&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
 <div align="center">

@@ -1,8 +1,10 @@
 # Hi, I'am Eduardo Rezende 
-### .NET/C# Developer | Cloud Solutions | Tech Educator
+### Developer | Cloud Solutions | Tech Educator
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+   <img src="https://img.shields.io/badge/Python-0089D6?style=for-the-badge&logo=python&logoColor=white" />
+   <img src="https://img.shields.io/badge/C++-FF5722?style=for-the-badge&logo=c-plusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Cloud-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Educator-FF5722?style=for-the-badge&logo=google-classroom&logoColor=white" />
 </div>
@@ -29,7 +31,6 @@
 
 ### Frontend & Desktop
 <div>
-  <img src="https://img.shields.io/badge/Blazor-512BD4?logo=blazor&logoColor=white&style=flat" title="Blazor"/>
   <img src="https://img.shields.io/badge/WinForms-5C2D91?logo=windows&logoColor=white&style=flat" title="Windows Forms"/>
   <img src="https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?logo=dotnet&logoColor=white&style=flat" title="ASP.NET MVC"/>
 </div>
@@ -41,6 +42,7 @@
   <img src="https://img.shields.io/badge/CI/CD-FF6D00?logo=githubactions&logoColor=white&style=flat" title="CI/CD Pipelines"/>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat" title="Git"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=flat" title="Postman"/>
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?logo=ollama&logoColor=black&style=flat" title="Ollama"/>
 </div>
 
 ### Methodologies
